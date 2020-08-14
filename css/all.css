@@ -260,7 +260,7 @@ hr{
 
 /* goals */
 #goal{
-	max-width: 100%;
+	max-width: 1170px;
 	margin: 0 auto;
 	padding: 93px 0 76px;
 	position:relative;
@@ -278,7 +278,7 @@ hr{
 
 .goals{
 	overflow: hidden;
-	width: 100%;
+	width: 80%;
 	margin: 20px 0 3px 0;
 }
 
