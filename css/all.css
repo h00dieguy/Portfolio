@@ -260,7 +260,7 @@ hr{
 
 /* goals */
 #goal{
-	max-width: 1170px;
+	max-width: 100%;
 	margin: 0 auto;
 	padding: 93px 0 76px;
 	position:relative;
@@ -278,7 +278,7 @@ hr{
 
 .goals{
 	overflow: hidden;
-	width: 80%;
+	width: 85%;
 	margin: 20px 0 3px 0;
 }
 
@@ -296,10 +296,10 @@ hr{
 	color: #fff;
 	text-transform:uppercase;
 	display: block;
-	font-family: 'Archivo';
+	font-family: 'rchivo';
 	font-weight: normal;
-	font-size: 18px;
-	padding: 0 0 0 20px;
+	font-size: 85%;
+/* 	padding: 0 0 0 20px; */
 }
 
 /*skills*/
