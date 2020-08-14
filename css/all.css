@@ -176,7 +176,7 @@ h2.slogan{
 /*main
  */
 #main{
-	max-width: 1170px;
+	max-width:100%;
 	margin: 0 auto;
 	padding: 93px 0 76px;
 	position:relative;
